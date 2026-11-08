@@ -1,4 +1,4 @@
-# Aegis LinkedIn images
+# Aegis LinkedIn Images
 
 The post images for the Aegis Technologies Inc. LinkedIn campaigns (Q4 2026), public so Buffer can
 import them by link. One folder per product, named by post date and account:
